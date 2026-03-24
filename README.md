@@ -2,7 +2,7 @@
 
 <h2>📌 Overview</h2>
 
-This repository contains a custom dataset titled "Data Invisible Cloak", designed for experiments in
+This repository contains a custom dataset titled "Data Invisible Cloak", designed for experiments in Optical Camouflage Using Gaussian Curves.
 
 
 The dataset consists of reference frames (background-only images) and cloak frames (images where the invisible cloak effect is applied).
